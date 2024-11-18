@@ -1,7 +1,7 @@
 **NAME:** EGALA SAI KUMAR MAHARSHI  
 **COMPANY:** CODTECH IT SOLUTIONS  
 **ID:** CT12DS2609  
-**DOMAIN:** FRONTEND
+**DOMAIN:** FRONTEND  
 **DURATION:** SEPTEMBER TO NOVEMBER
 
 ## OVERVIEW OF THE PROJECT:
@@ -26,3 +26,7 @@
 * HTML: For creating the structure of the quiz (questions, options, buttons).
 * CSS: For styling the quiz (colors, fonts, layout).
 * JavaScript: For making the quiz interactive (handling user input, calculating score).
+
+ ### Output:
+ ![image](https://github.com/user-attachments/assets/6cc0a5e7-5a08-42ab-99c6-367ecac91451)
+
